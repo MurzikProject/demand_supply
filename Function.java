@@ -12,4 +12,7 @@ b - k.
 
 	public void changeFunction(double percentage);
 	//Change function (quantity of demand or supply) on some percentage.
+
+//	public void priceElasticity(double qe, double pe);
+	//Calculate the price coefficient of elasticity in equilibrium point.
 }
